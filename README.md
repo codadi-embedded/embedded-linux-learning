@@ -6,3 +6,6 @@ Soucre of Learning Youtube Channel named as Johannes 4GNU_Linux
 Reference Documentation for Kernel level things:
     > https://elixir.bootlin.com/linux/v6.14.4/source
 
+Reference Book *Linux Device Drivers, Third Edition*
+    > https://lwn.net/Kernel/LDD3/
+
