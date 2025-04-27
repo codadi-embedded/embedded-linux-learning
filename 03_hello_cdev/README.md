@@ -19,3 +19,4 @@ How to test the code:
     3. sudo mknod /dev/hello0 c major minor -> sudo dmesg -W
     4. sudo cat /dev/hello0 -> since, only read operation is there in the code
     5. sudo rmmod hello_cdev.ko
+    6. Make sure to remove the device file -> sudo rm /dev/hello0
