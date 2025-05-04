@@ -3,7 +3,7 @@
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Codadi");
-MODULE_DESCRIPTION("A simple hello from kernel linux kernel module");
+MODULE_DESCRIPTION("A sample driver for registering a character device");
 
 static int my_init(void);
 static void my_exit(void);
